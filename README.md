@@ -1,8 +1,9 @@
-# [Gamemakin](https://gamemak.in) UE4 Style Guide() {
+# [Arckram Kreator Studios](https://ArckramKreator.com) UE5 Style Guide.
 
-*A mostly reasonable approach to Unreal Engine 4*
+*A mostly reasonable approach to Unreal Engine 5*
 
-Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
+Based on the [Gamemakin UE4 Style Guide()](https://github.com/Allar/ue5-style-guide),
+Which is heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
 
 [![Analytics](https://ga-beacon.appspot.com/UA-80567399-1/repo?useReferrer)](#)
 
@@ -1455,5 +1456,3 @@ See [LICENSE](/LICENSE)
 ## Amendments
 
 We encourage you to fork this guide and change the rules to fit your team's style guide. Below, you may list some amendments to the style guide. This allows you to periodically update your style guide without having to deal with merge conflicts.
-
-# };
